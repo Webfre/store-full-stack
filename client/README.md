@@ -7,8 +7,6 @@
 - Single-page application;
 - Responsive and fully adaptive;
 
-## Preview
-
 ## Tech
 
 YouTube Clone uses a number of open source projects to work properly:
@@ -36,7 +34,7 @@ If you don't know your version, you can check it with the command in the [node -
 In order to install the project locally, you will need:
 
 ```sh
-git clone 
+git clone https://github.com/Webfre/store-full-stack.git
 ```
 
 Start the project:
