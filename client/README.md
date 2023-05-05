@@ -1,6 +1,6 @@
 # Store
 
-![Image alt](https://github.com/Webfre/clone-youtube/blob/main/src/images/youtubeclone.png)
+![Image alt](https://github.com/Webfre/store-full-stack/blob/main/client/src/assets/2023-05-05_11-56-29.png)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=webfre&label=Profile%20views&color=0e75b6&style=flat" alt="webfre" /> </p>
 
