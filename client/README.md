@@ -1,18 +1,13 @@
-# YouTube Clone
+# Store
 
 ![Image alt](https://github.com/Webfre/clone-youtube/blob/main/src/images/youtubeclone.png)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=webfre&label=Profile%20views&color=0e75b6&style=flat" alt="webfre" /> </p>
 
-YouTube Clone - video hosting service that provides users with video storage, delivery and display services. YouTube has become the most popular video hosting and the second site in the world in terms of the number of.
-
 - Single-page application;
 - Responsive and fully adaptive;
-- Used a public open <a href="https://rapidapi.com/Glavier/api/youtube138/" target="_blank">API YouTube</a>
 
 ## Preview
-
-<a href="https://webfre.github.io/clone-youtube/" target="_blank">Follow the link 👁</a>
 
 ## Tech
 
@@ -41,13 +36,13 @@ If you don't know your version, you can check it with the command in the [node -
 In order to install the project locally, you will need:
 
 ```sh
-git clone https://github.com/Webfre/clone-youtube.git
+git clone 
 ```
 
 Start the project:
 
 ```sh
+cd client
 npm install
-cd my-clone-youtube
-npm start or yarn start
+npm start
 ```
